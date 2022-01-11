@@ -188,7 +188,7 @@ body {
     max-width: 100%;
 }
 
-h2 {
+h1 {
     margin-bottom: 0.75em;
 }
 
@@ -200,7 +200,7 @@ p {
     margin-top: 2em;
 }
 
-.stats-item > h3 {
+.stats-item > h2 {
     margin-top: 1.5em;
 }
 
@@ -249,7 +249,7 @@ p {
         padding-right: min(1vw, 5em);
     }
 
-    .stats-item > h3 {
+    .stats-item > h2 {
         margin-top: 0;
     }
 
