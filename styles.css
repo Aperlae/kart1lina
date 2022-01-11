@@ -72,11 +72,6 @@ picture {
 
 @media (min-width: 52.25em) {
     :root {
-        /* --fs-900: 1.125rem;
-        --fs-800: 0.875rem;
-        --fs-600: 0.75rem;
-        --fs-300: 0.625rem;
-        --fs-200: 0.5625rem; */
         --fs-900: clamp(1.25rem, -0.64rem + 3vw, 5rem);      
         --fs-800: clamp(1rem, -0.56rem + 3vw, 4rem);          
         --fs-600: clamp(0.8125rem, -0.382rem + 2vw, 2.75rem); 
@@ -104,9 +99,9 @@ picture {
 .bg-card { background-color: hsl(var(--clr-desatblue)); }
 .bg-accent { background-color: hsl(var(--clr-softviolet)); }
 
-.text-white { color: hsl(var(--clr-white)); }           /*h2 & stats*/
-.text-blue { color: hsl(var(--clr-blue)); }             /*attribution link*/
-.text-accent { color: hsl(var(--clr-softviolet)); }     /*span*/
+.text-white { color: hsl(var(--clr-white)); }           
+.text-blue { color: hsl(var(--clr-blue)); }             
+.text-accent { color: hsl(var(--clr-softviolet)); }     
 
 .uppercase { text-transform: uppercase; }
 
@@ -198,7 +193,7 @@ h2 {
 }
 
 p {
-    color:hsl(0, 0%, 100%, 0.5);
+    color:hsla(0, 0%, 100%, 0.5);
 }
 
 .stats-container {
@@ -210,7 +205,7 @@ p {
 }
 
 .stats-item > p {
-    color:hsl(0, 0%, 100%, 0.6);
+    color:hsla(0, 0%, 100%, 0.6);
 }
 
 .attribution {
@@ -244,7 +239,7 @@ p {
         margin: 0;
         padding: min(5vw, 6em);
         text-align: left;
-        vertical-align: middle;
+        align-items: center;
     }
 
     .stats-container {
