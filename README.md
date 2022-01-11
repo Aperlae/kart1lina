@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://aperlae.github.io/kart1lina/)
+- Solution URL: [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-component-using-grid-and-flexbox-0fVdMV7K5)
+- Live Site URL: [My Live Site](https://aperlae.github.io/kart1lina/)
 
 
 ## My process
