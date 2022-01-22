@@ -64,7 +64,7 @@ I hope I succeeded in vertically centering contents in a container as I'm not su
 - [Pedro Rodriguez's article on CSS-Tricks](https://css-tricks.com/linearly-scale-font-size-with-css-clamp-based-on-the-viewport/) - I keep going to this article to get the equation for scaling font-size according to viewport.
 - [Stackoverflow](https://stackoverflow.com/questions/25972274/how-to-swap-images-on-mobile-desktop-in-responsive-mode) - This helped me figure out how to swap images from mobile to desktop.
 -  [Chris Coyier's article on CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A great guide to flexbox. 
-
+- [Piccalilly A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/) - This is where I got my reset. 
 
 
 ## Author
